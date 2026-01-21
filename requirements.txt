@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+redis
+httpx
+python-multipart
+pillow
+opencv-python-headless
+numpy
+python-dotenv
+aiofiles
+jinja2
